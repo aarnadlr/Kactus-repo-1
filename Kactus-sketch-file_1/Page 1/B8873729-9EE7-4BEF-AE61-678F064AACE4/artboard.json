@@ -1,0 +1,88 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "B8873729-9EE7-4BEF-AE61-678F064AACE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 595,
+    "width": 842,
+    "x": 660,
+    "y": -34
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AD591732-7E42-43F7-B43A-FCEADBEF86C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "000EE2EA-E563-4859-99A6-A82C6E079DBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80562D00-F667-4F1B-B5D4-0B033080F828"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81F2F37B-FDE7-41C8-88F6-B845E79E1DF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F172F056-EE76-423A-95FD-992BE6C2BF51"
+    }
+  ],
+  "name": "Artboard Number 1 !@#$",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
