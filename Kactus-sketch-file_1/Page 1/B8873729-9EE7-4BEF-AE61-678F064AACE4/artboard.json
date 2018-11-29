@@ -63,6 +63,18 @@
     {
       "class": "symbolInstance",
       "id": "F172F056-EE76-423A-95FD-992BE6C2BF51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B4635147-E19D-4F1D-9255-991F9B8085B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3AAC7685-1FAA-4552-83B6-03B13FD58B83"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9DC0A583-21C1-4C1E-BE91-A8635E14C2EB"
     }
   ],
   "name": "Artboard Number 1 !@#$",

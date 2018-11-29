@@ -27,7 +27,7 @@
     "y": -34
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -59,6 +59,10 @@
     {
       "class": "shapeGroup",
       "id": "F330B653-DB99-459D-8FF9-E6ABCAE9E36F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "563070C2-EE1E-4DCB-9521-92E9E38F834E"
     }
   ],
   "name": "Artboard Number 2",
